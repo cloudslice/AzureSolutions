@@ -1,0 +1,13 @@
+{
+  "customerID" : "AROUT",
+  "companyName" : "Around the Horn",
+  "contactName" : "Thomas Hardy",
+  "contactTitle" : "Sales Representative",
+  "address": "120 Hanover Sq.",
+  "city" : "London",
+  "region" : "NULL",
+  "postalCode" : "WA1 1DP",
+  "country" : "UK",
+  "phone" : "(171) 555-7788"
+}
+
